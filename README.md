@@ -148,4 +148,6 @@ Feedstock Maintainers
 =====================
 
 * [@ArthurVincentCS](https://github.com/ArthurVincentCS/)
+* [@hulecom](https://github.com/hulecom/)
+* [@sfourest](https://github.com/sfourest/)
 
