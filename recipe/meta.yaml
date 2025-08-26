@@ -1,5 +1,5 @@
 {% set name = "lenapy" %}
-{% set version = "1.0" %}
+{% set version = "1.0.2" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/CNES/lenapy/archive/refs/tags/V{{ version }}.tar.gz
-  sha256: ec965507d3092a142f2e0aeeb39378e11b567c19b94b7fe4d7e75a0699f812dc
+  sha256: d4f37024ede4a03f96c57882b3a56222e76ebeb119c65062c9bcf1c2756fdac5
 
 
 build:
